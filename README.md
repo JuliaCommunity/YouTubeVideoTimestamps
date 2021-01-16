@@ -11,3 +11,5 @@ If you want to help add timestamps to the YouTube videos found on this playlist:
 - Watch the video and add descriptive descriptions to the issue you opened
 - Ping @logankilpatrick once you are done and we will review
 - Once the description is accepted we will add a S/o to you in the video description as a thank you for your help! 
+
+Thank you! #JuliaLang

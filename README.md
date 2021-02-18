@@ -5,6 +5,8 @@ See our call for support here: [Opportunities to get involved with MIT’s Intro
 
 ## Get Involved
 
+Edit: If there is videos without timestamps here: https://www.youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0 please do those first before last semesters videos. 
+
 If you want to help add timestamps to the YouTube videos found on this playlist: https://youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ please follow the below steps:
 - See the time stamps in the description here: https://www.youtube.com/watch?v=DGojI9xcCfg&list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ&index=2 for an example of what you should do. 
 - Find a video without time stamps that interests you

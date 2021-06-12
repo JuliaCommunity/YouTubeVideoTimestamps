@@ -1,13 +1,12 @@
-# IntroToCompThinkingVideoTimestamps
-Repo to track the progress of adding time stamps to the https://computationalthinking.mit.edu/Fall20/ videos
+# YouTube Timestamps
 
-See our call for support here: [Opportunities to get involved with MIT’s Intro to Comp. Thinking course in Julia!](https://discourse.julialang.org/t/opportunities-to-get-involved-with-mits-intro-to-comp-thinking-course-in-julia/53992)
+Repo to track the progress of adding time stamps to the Julia Language's YouTube videos.
 
 ## Get Involved
 
-Edit: If there is videos without timestamps here: https://www.youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0 please do those first before last semesters videos. 
+Edit: If there is videos without timestamps here: https://www.youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0 please do those first before other videos. 
 
-If you want to help add timestamps to the YouTube videos found on this playlist: https://youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ please follow the below steps:
+If you want to help add timestamps to the YouTube videos found here: https://www.youtube.com/user/julialanguage, please follow the below steps:
 - See the time stamps in the description here: https://www.youtube.com/watch?v=DGojI9xcCfg&list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ&index=2 for an example of what you should do. 
 - Find a video without time stamps that interests you
 - Look at this repo's issues to make sure there is no existing issue with the vieo title (make sure you look at closed issues too)

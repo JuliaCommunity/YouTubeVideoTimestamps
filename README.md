@@ -11,7 +11,6 @@ If you want to help add timestamps to the YouTube videos found here: https://www
 - Look at this repo's issues to make sure there is no existing issue with the video title (make sure you look at closed issues too)
 - Open a new issue with the videos title to "claim" the video such that there's no overlapping work
 - Watch the video and add descriptive descriptions to the issue you opened
-- Ping @logankilpatrick once you are done and we will review
 - Once the description is accepted we will add a S/o to you in the video description as a thank you for your help! 
 
 Thank you! #JuliaLang

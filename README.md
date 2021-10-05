@@ -2,7 +2,7 @@
 
 Repo to track the progress of adding time stamps to the Julia Language's YouTube videos.
 
-## Get Involved (and get a Hackotberfest contrbution completed)
+## Get Involved (and get a Hackotberfest contribution completed)
 
 If you want to help add timestamps to the YouTube videos found here: https://www.youtube.com/user/julialanguage, please follow the below steps:
 - See the time stamps in the description here: https://www.youtube.com/watch?v=DGojI9xcCfg&list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ&index=2 for an example of what you should do. 

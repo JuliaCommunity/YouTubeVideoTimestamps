@@ -1,0 +1,16 @@
+References:
+Video Title: POMDPs.jl and Interactive Assignments in Julia | Zachary Sunberg | JuliaCon2021
+Link: https://www.youtube.com/watch?v=v7XhdLkLMEg
+
+Contents
+0:00 Welcome!
+0:10 Speaker introduction
+0:19 Context for Proff. Sunberg's work
+0:49 Why use Julia? & Monte-Carlo Tree Search
+1:48 POMDPS.jl and its challenges
+3:19 Example - Simple problem definition on POMDPS.jl
+4:57 C++ vs. Julia implementations
+5:16 Example - Interactive homework assignments
+7:08 Other useful Julia packages
+7:16 Conclusions
+8:02 Links to GitHub repos & contact info

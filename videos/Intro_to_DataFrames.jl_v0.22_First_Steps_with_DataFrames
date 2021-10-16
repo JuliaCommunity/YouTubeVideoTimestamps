@@ -1,0 +1,22 @@
+Video title: Intro to DataFrames.jl v0.22: First Steps with Data Frames
+Video link: https://www.youtube.com/watch?v=OCCkbUL_x_c&list=PLP8iPy9hna6SGnG3FcHlYhdWWrZE7nNEx&index=2
+
+00:00 Welcome
+01:04 Loading required packages
+01:23 Creating matrix of data
+02:00 Converting matrix to DataFrame (With automatic column names)
+02:23 Changing default column names
+04:33 The other way, creating the DataFrame with custom column names
+05:22 Extracting the data at different columns
+06:08 Reordering/selecting the columns
+07:50 "Describe" function
+09:09 Adding and ID column
+10:09 Moving ID column to the front
+10:47 Converting a DataFrame back to matrix
+11:16 How to create various plots with same X and Y limits
+12:44 Creating plots
+14:01 Creating a Linear Regression model
+16:32 Creating DataFrames with variables as variables as column names and values
+17:37 Difference between matrix notation and dot notation in accessing various columns and rows of a DataFrame
+18:33 Alternate matrix notation
+19:56 Thank you

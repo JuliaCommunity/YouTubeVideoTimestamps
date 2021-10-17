@@ -4,17 +4,16 @@ Speaker: David P. Sanders
 Link: https://www.youtube.com/watch?v=jj8Iy7FFMeM
 
 Contents:
-0:00 Welcome!
-0:55 Speaker introduction
-1:22 Outline
-2:57 The IntervalConstraintProgramming.jl package
-7:53 Applications - Root finding
-9:21 How does the math work?
-12:18 IntevalArithmetic.jl
-17:54 The Forward-Backward contractor
-22:32 How is it implemented?
-28:00 Intervals in higher dimensions
-29:25 Application - Unbounded optimization
-31:39 Summary
-32:33 Questions
-37:48 The end
+0:00 Speaker introduction
+0:27 Outline
+1:57 The IntervalConstraintProgramming.jl package
+6:54 Applications - Root finding
+8:22 How does the math work?
+11:17 IntevalArithmetic.jl
+15:42 The Forward-Backward contractor
+17:26 How is it implemented?
+27:02 Intervals in higher dimensions
+28:25 Application - Unbounded optimization
+30:16 Summary
+31:22 Questions
+36:49 The end

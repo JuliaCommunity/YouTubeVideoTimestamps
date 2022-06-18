@@ -17,7 +17,7 @@ Link to the code: https://github.com/SciML/ModelingToolkit.jl
 + 07:43 - Alias elimination
 + 08:52 - Tearing
 + 12:08 - All Together
-+ 13:31 - Acknowlegdement
++ 13:31 - Acknowledgements
 + 14:04 - Q&A: Modelica Colaboration
 + 15:46 - Q&A: Optimal control problems
 + 16:17 - Q&A: Future of ModelingToolkit.jl

@@ -26,27 +26,27 @@ The documentation can currently be found at https://makie.juliaplots.org
 
 View the Makie Blog for future developments https://blog.makie.org/
 
-0:00 - Intro Music
-0:31 - Agenda
-2:01 - What is Makie
-3:50 - Sponsors and Funding Makie
-9:33 - Move to MakieOrg
-12:39 - Backends and Makie's Building Blocks
-17:10 - Scenes in Makie
-19:04 - Creating a Makie System Image with PackageCompiler.jl
-24:39 - Finding Documentation
-36:59 - Basic Building Blocks
-48:00 - Layouts
-1:08:12 - Theming
-1:10:27 - How Layouts Respond to Plot Decorations
-1:18:27 - Aspect Ratios
-1:24:16 - Break
-1:29:27 - Questions
-1:32:20 - Recipes
-1:43:40 - Interactions
-2:04:25 - Questions
-2:08:59 - Sizes and Units
-2:20:02 - Interactive App Example
-2:38:45 - Wrap Up and Final Questions
+00:00:00 - Intro Music
+00:00:31 - Agenda
+00:02:01 - What is Makie
+00:03:50 - Sponsors and Funding Makie
+00:09:33 - Move to MakieOrg
+00:12:39 - Backends and Makie's Building Blocks
+00:17:10 - Scenes in Makie
+00:19:04 - Creating a Makie System Image with PackageCompiler.jl
+00:24:39 - Finding Documentation
+00:36:59 - Basic Building Blocks
+00:48:00 - Layouts
+01:08:12 - Theming
+01:10:27 - How Layouts Respond to Plot Decorations
+01:18:27 - Aspect Ratios
+01:24:16 - Break
+01:29:27 - Questions
+01:32:20 - Recipes
+01:43:40 - Interactions
+02:04:25 - Questions
+02:08:59 - Sizes and Units
+02:20:02 - Interactive App Example
+02:38:45 - Wrap Up and Final Questions
 
 S/o to https://github.com/Andy2K11 for the video timestamps!

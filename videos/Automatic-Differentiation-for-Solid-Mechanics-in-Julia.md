@@ -1,3 +1,5 @@
+link to the [video](https://www.youtube.com/watch?v=EeC2pu9i_F0)
+
 0:10 Introduction
 0:30 Why AD for solid Mechanics
 1:50 One example, the rod elment

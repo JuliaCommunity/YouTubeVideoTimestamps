@@ -1,0 +1,13 @@
+### AlgebraicRewriting.jl - declarative data transformation | Kris Brown | JuliaCon 2022, https://www.youtube.com/watch?v=7Ao9_ffLSFg
+
+References:
+Speaker: Kris Brown
+Video title: AlgebraicRewriting.jl - declarative data transformation | Kris Brown | JuliaCon 2022
+Link: https://www.youtube.com/watch?v=7Ao9_ffLSFg
+Link to the code: https://github.com/AlgebraicJulia/AlgebraicRewriting.jl
+
++ 00:10 - Introduction
++ 01:05 - Applications of graph transformation
++ 07:50 - Representing data with C-Sets
++ 11:59 - Representing transformations with rewrite rules
++ 18:56 - Virtues of this approach

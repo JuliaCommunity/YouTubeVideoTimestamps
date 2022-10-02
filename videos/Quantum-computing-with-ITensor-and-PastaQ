@@ -1,0 +1,14 @@
+0:00 - Welcome
+0:40 - Brief introduction to Quantum Computing
+3:00 - The Complexity of Simulating a Quantum Computer with Classical Computers
+4:17 - Tensor Network Diagrams 
+6:00 - Working with tensors in ITensor
+9:02 - Advantages and Disadvantages of the ITensor System
+9:45 - Example: Singular Value Decomposition
+11:08 - Simple Tensor Network Example: Matrix Product State (or Tensor Train)
+12:37 - Other types of Tensor Networks
+13:06 - Gradient Calculations of Tensor Networks (Using Zygote)
+14:24 - Application to Quantum Computing. Exponential Scaling
+16:09 - The PastaQ Approach
+18:16 - Example: Optimization of a Parametrized Circuit 
+22:15 - Summary

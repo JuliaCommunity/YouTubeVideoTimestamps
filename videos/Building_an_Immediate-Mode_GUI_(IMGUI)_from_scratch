@@ -1,0 +1,13 @@
+Talk title: Building an Immediate-Mode GUI (IMGUI) from scratch | Siddharth Bhatia | JuliaCon 2022
+Talk link: https://www.youtube.com/watch?v=-z8_F9ozERc
+
+Contents:
+00:00 - JuliaCon 2022 welcome screen
+00:06 - Brief introduction to Graphical User Interfaces (GUIs)
+01:46 - Partial pseudocode of a GUI application
+03:49 - Handling user input (mouse/keyboard events)
+08:13 - Widget related pseudocode in a GUI application
+09:59 - Widget IDs - uniquely identify widgets across frames
+12:22 - User interaction and the concept of hot and active widgets
+18:35 - Implementing buttons, sliders, and text-boxes
+23:26 - Outro

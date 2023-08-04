@@ -1,4 +1,4 @@
-Video title: JuliaCon 2023 Room 26-100 Day 3
+Video title: JuliaCon 2023 Room 26-100 Day 3  
 Speaker: Various  
 Link: https://www.youtube.com/watch?v=2D8oRtDJEeg  
 
